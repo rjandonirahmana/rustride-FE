@@ -27,4 +27,4 @@ ENV PORT=3100
 EXPOSE 3100
 USER nonroot
 
-CMD ["node", "server.js"]
+CMD ["server.js"]
